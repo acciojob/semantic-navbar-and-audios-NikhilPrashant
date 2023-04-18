@@ -1,2 +1,6 @@
-
+nav ul {
+	display: flex;
+	list-style: none;
+	gap: 1rem;
+}
 /* Your CSS Code here. */
